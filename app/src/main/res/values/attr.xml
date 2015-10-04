@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_url" id="@+id/image_URL">
+        <item>http://img0.bdstatic.com/img/image/shouye/mxc001.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img.ivsky.com/img/bizhi/pre/201508/18/september-011.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/tpmlqdgx05.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/tpmlqdgx06.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/tpmlqdgx07.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek05.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek07.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek02.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek01.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek04.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek06.jpg</item>
+        <item>http://img0.bdstatic.com/img/image/shouye/qwscmek03.jpg</item>
+    </string-array>
+</resources>
