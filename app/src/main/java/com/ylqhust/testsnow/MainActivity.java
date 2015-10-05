@@ -11,9 +11,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 
-import com.ylqhust.snow.Utils.LoadBitmapHelper;
+import com.ylqhust.snow.queue.SnowQueue;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -41,8 +40,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i=0;i<image_url.length;i++)
         {
             ImageView imageView = (ImageView) inflater.inflate(R.layout.imageview,null);
-            LoadBitmapHelper helper = new LoadBitmapHelper(imageView,image_url[i]);
-            helper.load();
+            SnowQueue.add(imageView,image_url[i]);
             linearLayout.addView(imageView);
         }
     }

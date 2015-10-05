@@ -3,11 +3,8 @@ package com.ylqhust.snow.task;
 import android.os.AsyncTask;
 
 import com.ylqhust.snow.Utils.Utils;
-import com.ylqhust.snow.core.GetBitmap;
 import com.ylqhust.snow.core.GetInputStream;
 
-import java.io.File;
-import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 

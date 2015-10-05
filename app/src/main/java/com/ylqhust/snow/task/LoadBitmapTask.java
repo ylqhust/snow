@@ -3,7 +3,6 @@ package com.ylqhust.snow.task;
 import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.os.AsyncTask;
-import android.util.Log;
 import android.widget.ImageView;
 
 import com.ylqhust.snow.core.GetBitmap;

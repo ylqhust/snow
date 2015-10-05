@@ -1,9 +1,8 @@
 package com.ylqhust.snow.Utils;
 
-import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.widget.ImageView;
-import com.ylqhust.snow.core.GetBitmap;
+
 import com.ylqhust.snow.task.Handler;
 import com.ylqhust.snow.task.LoadBitmapTask;
 import com.ylqhust.snow.widget.AsyncDrawable;
@@ -21,29 +20,9 @@ public class LoadBitmapHelper implements Handler
     private Object object;
 
 
-    public LoadBitmapHelper(ImageView imageView, File filePath) {
+    public LoadBitmapHelper(ImageView imageView, Object object) {
         this.imageView = imageView;
-        this.object = filePath;
-    }
-
-    public LoadBitmapHelper(ImageView imageView, String urlString) {
-        this.imageView = imageView;
-        this.object = urlString;
-    }
-
-    public LoadBitmapHelper(ImageView imageView, URL url) {
-        this.imageView = imageView;
-        this.object = url;
-    }
-
-    public LoadBitmapHelper(ImageView imageView, InputStream is) {
-        this.imageView = imageView;
-        this.object = is;
-    }
-
-    public LoadBitmapHelper(ImageView imageView, byte[] bytes) {
-        this.imageView = imageView;
-        this.object = bytes;
+        this.object = object;
     }
 
     /**
